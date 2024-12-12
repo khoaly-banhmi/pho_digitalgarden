@@ -6,6 +6,10 @@ tags:
 - Get_started
 date: 2024-12-12
 ---
+> [!NOTE] Get started
+> 1. [[How this digital garden is organized]]
+> 2. to be continued
+
 ![[1209(1).gif]]
 
 **Howdy, internet wanders!**
@@ -23,8 +27,4 @@ Anything published here are under [CC BY-SA 4.0](https://creativecommons.org/li
 > 
 > *— La Pieva (Chez moi), Babara Pravi*
 
-
-> [!NOTE] Get started
-> 1. How this digital garden is organized
-> 2. to be continued
 
