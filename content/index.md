@@ -16,9 +16,10 @@ This site is made using [Quartz](https://quartz.jzhao.xyz/) and formatted using 
 
 Anything published here are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1). You can use them in your work, adapt, remix, anything, but you need to attribute the original work. 
 
-*"Je viens de partout, chez moi, les gens sèment, sèment*
-*Ils font fleurir des graines pour qu'elles deviennent vie"* 
-*— La Pieva (Chez moi), Babara Pravi*
+> [!quote]
+> *"Je viens de partout, chez moi, les gens sèment, sèment*
+> *Ils font fleurir des graines pour qu'elles deviennent vie"* 
+> *— La Pieva (Chez moi), Babara Pravi*
 
 
 > [!NOTE] Get started
