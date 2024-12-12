@@ -2,7 +2,8 @@
 title: How this digital garden is organized
 description: Use this as a guide to navigate this digital garden
 tags:
-- Get_started
+  - Get_started
+  - 🧭Navigation
 date: 2024-12-12
 ---
 Notes created fall into the following categories:
