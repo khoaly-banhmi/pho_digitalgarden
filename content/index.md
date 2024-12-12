@@ -18,7 +18,9 @@ Anything published here are under [CC BY-SA 4.0](https://creativecommons.org/li
 
 > [!quote]
 > *"Je viens de partout, chez moi, les gens sèment, sèment*
+> 
 > *Ils font fleurir des graines pour qu'elles deviennent vie"* 
+> 
 > *— La Pieva (Chez moi), Babara Pravi*
 
 
