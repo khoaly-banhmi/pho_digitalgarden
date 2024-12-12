@@ -16,6 +16,10 @@ date: 2024-12-12
 
 Somehow you have stumbled upon my digital garden, where I host and organize my ideas for future reference and growth, like a personal wiki. The notes are all in markdown so they can be migrated, stored easily and sustainably. 
 
+I am currently a freshman in [aerospace engineering](https://engineering.tamu.edu/aerospace/index.html) at Texas A&M, College Station. Apart from studying full time, I am teaching myself web development and wandering the fields of sustainable aviation, data visualization, and child-mind-growth. 
+
+You can get in touch via email: lynhatkhoa@tamu.edu
+
 This site is made using [Quartz](https://quartz.jzhao.xyz/) and formatted using [Obsidian MD](https://obsidian.md/). These are all open source software and maintained by the community. Create your own digital garden using the links above.
 
 Anything published here are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1). You can use them in your work, adapt, remix, anything, but you need to attribute the original work. 
