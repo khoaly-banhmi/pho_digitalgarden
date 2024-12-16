@@ -6,9 +6,6 @@ tags:
 - Get_started
 date: 2024-12-12
 ---
-> [!NOTE] Get started
-> 1. [[How this digital garden is organized]]
-> 2. to be continued
 
 ![[1209(1).gif]]
 
@@ -19,6 +16,10 @@ Somehow you have stumbled upon my digital garden, where I host and organize my i
 I am currently a freshman in [aerospace engineering](https://engineering.tamu.edu/aerospace/index.html) at Texas A&M, College Station. Apart from studying full time, I am teaching myself web development and wandering the fields of sustainable aviation, data visualization, and child-mind-growth. 
 
 You can get in touch via email: lynhatkhoa@tamu.edu
+
+> [!NOTE] Get started
+> 1. [[How this digital garden is organized]]
+> 2. to be continued
 
 This site is made using [Quartz](https://quartz.jzhao.xyz/) and formatted using [Obsidian MD](https://obsidian.md/). These are all open source software and maintained by the community. Create your own digital garden using the links above. Sprout icon by [Saepul Nahwan](https://www.flaticon.com/authors/saepul-nahwan) on Flaticon.
 
