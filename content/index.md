@@ -2,13 +2,12 @@
 title: Howdy, internet wanders
 description: This is where I host and organize my ideas for future reference and growth, like a personal wiki.
 tags:
-  - Howdy
-  - Get_started
+- Howdy
+- Get_started
 date: 2024-12-12
-share: true
 ---
 
-![[1209(1).gif|1209(1).gif]]
+![[1209(1).gif]]
 
 **Howdy, internet wanders!**
 
@@ -19,7 +18,7 @@ I am currently a freshman in [aerospace engineering](https://engineering.tamu.ed
 You can get in touch via email: lynhatkhoa@tamu.edu
 
 > [!NOTE] Get started
-> 1. [[How this digital garden is organized|How this digital garden is organized]]
+> 1. [[How this digital garden is organized]]
 > 2. to be continued
 
 This site is made using [Quartz](https://quartz.jzhao.xyz/) and formatted using [Obsidian MD](https://obsidian.md/). These are all open source software and maintained by the community. Create your own digital garden using the links above. Sprout icon by [Saepul Nahwan](https://www.flaticon.com/authors/saepul-nahwan) on Flaticon.
