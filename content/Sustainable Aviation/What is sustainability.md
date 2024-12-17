@@ -8,6 +8,7 @@ date: 2024-12-17
 share: true
 ---
 ![[3es_of_sustainability.png|3es_of_sustainability.png]]
+
 The [UN](https://www.un.org/en/academic-impact/sustainability#:~:text=%E2%80%9Cmeeting%20the%20needs%20of%20the%20present%20without%20compromising%20the%20ability%20of%20future%20generations%20to%20meet%20their%20own%20needs.%E2%80%9D) defined sustainability as **"meeting the needs of the present without compromising the ability of future generations to meet their own needs."** This definition focuses on the very general goal of sustainability, which is to maintain and sustain the world resources. To better understand how this is done, we need to refer to UCLA Sustainability.
 
 According to [UCLA](https://www.sustain.ucla.edu/what-is-sustainability/),sustainability comprises of three elements:
