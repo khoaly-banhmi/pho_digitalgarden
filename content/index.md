@@ -16,15 +16,17 @@ Somehow you have stumbled upon my digital garden, where I host and organize my i
 
 I am currently a freshman in [aerospace engineering](https://engineering.tamu.edu/aerospace/index.html) at Texas A&M, College Station. Apart from studying full time, I am teaching myself web development and wandering the fields of sustainable aviation. I surround myself with the guiding principles of Respect, Excellence, Leadership, Loyalty, Selfless Service. My digital garden will be built around the following topics:
 1. Professional career: things I learn along the way to excel in aerospace engineering and sustainable development
-2. Learning to learn: how to effectively filter, organize, and actively recall information
+2. Learning to learn: how to effectively filter, organize, understand, and actively recall information
 3. Healthy mind and physical body: nutrition, exercising routine
 4. Education: teaching resilience, emotional intelligence, and passing on the love of exploring.
 
-You can get in touch via email: lynhatkhoa@tamu.edu
+This digital garden may grow to be very lush. To help you navigate, I have created the following guide, but if you want to be adventurous, wander around!
 
 > [!NOTE] Get started
 > 1. [[How this digital garden is organized|How this digital garden is organized]]
 > 2. Digital gardening and decentralizing data
+
+Get in touch via email: lynhatkhoa@tamu.edu
 
 This site is made using [Quartz](https://quartz.jzhao.xyz/) and formatted using [Obsidian MD](https://obsidian.md/). These are all open source software and maintained by the community. Create your own digital garden using the links above. Sprout icon by [Saepul Nahwan](https://www.flaticon.com/authors/saepul-nahwan) on Flaticon.
 
