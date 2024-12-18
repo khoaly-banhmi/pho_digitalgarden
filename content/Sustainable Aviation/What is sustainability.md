@@ -16,7 +16,12 @@ According to [UCLA](https://www.sustain.ucla.edu/what-is-sustainability/),sustai
 2. **Economy:** Efforts to maintain equilibrium for the future does not negatively affect the current economy, such as impoverish any communities.
 3. **Equity:** Human's right and equal development are not compromised.
 
-These three elements supports each other like a three-legged stool, in any cases that one of the elements are compromised, the stool toppled and sustainability is not ensured. In the next parts, I will discuss each element of sustainability, the past, the status quo, future development, and how sustainable aviation contribute to the [UN's sustainable development goals](https://sdgs.un.org/goals).
+These three elements supports each other like a three-legged stool, in any cases that one of the elements are compromised, the stool toppled and sustainability is not ensured. In the next part, I will discuss each element of sustainability, the past, the status quo, future development, and how sustainable aviation contribute to the [UN's sustainable development goals](https://sdgs.un.org/goals).
 
 # Environment
-anything that surrounds human
+The environment is anything that surrounds a person, animal, or plant, in which they lives and operate. The environment is not only the usually mentioned *natural environment*, but also human's living environments, including cities, towns.  
+
+# Economy
+
+# Equity
+
