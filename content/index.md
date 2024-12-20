@@ -24,7 +24,7 @@ This digital garden may grow to be very lush. To help you navigate, I have creat
 
 > [!NOTE] Get started
 > 1. [[How this digital garden is organized|How this digital garden is organized]]
-> 2. Digital gardening and decentralizing data
+> 2. [[Digital Gardening and Decentralizing Data|Digital Gardening and Decentralizing Data]]
 
 Get in touch via email: lynhatkhoa@tamu.edu
 
