@@ -16,7 +16,7 @@ Somehow you have stumbled upon my digital garden, where I host and organize my i
 
 I am currently a freshman in [aerospace engineering](https://engineering.tamu.edu/aerospace/index.html) at Texas A&M, College Station. Apart from studying full time, I am teaching myself web development and wandering the fields of sustainable aviation. I surround myself with the guiding principles of Respect, Excellence, Leadership, Loyalty, Selfless Service. My digital garden will be built around the following topics:
 1. Professional career: things I learn along the way to excel in aerospace engineering and sustainable development
-2. Learning to learn: how to effectively filter, organize, understand, and actively recall information
+2. Learning to learn: how to effectively filter, organize, understand, and actively recall information. 
 3. Healthy mind and physical body
 4. Education: for resilience, emotional intelligence, and passing on the love of exploring.
 
@@ -31,10 +31,12 @@ Get in touch via email: lynhatkhoa@tamu.edu
 This site is made using [Quartz](https://quartz.jzhao.xyz/) and formatted using [Obsidian MD](https://obsidian.md/). These are all open source software and maintained by the community. Create your own digital garden using the links above. Sprout icon by [Saepul Nahwan](https://www.flaticon.com/authors/saepul-nahwan) on Flaticon.
 
 Anything published here are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1). You can use them in your work, adapt, remix, anything, but you need to attribute the original work. 
-
+[]()
 > [!quote]
-> *"Je viens de partout, chez moi, les gens sèment, sèment*\n
-> *Ils font fleurir des graines pour qu'elles deviennent vie"* \n
-> *— La Pieva (Chez moi), Babara Pravi*
+> *"Je viens de partout, chez moi, les gens sèment, sèment*
+> 
+> *Ils font fleurir des graines pour qu'elles deviennent vie"*
+> 
+> [*— La Pieva (Chez moi), Babara Pravi*](https://open.spotify.com/track/3QPNtN3KHPIrtRPY4sM69o?si=630696fa00fb4fbd)
 
 
