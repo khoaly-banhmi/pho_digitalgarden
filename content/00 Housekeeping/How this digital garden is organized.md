@@ -4,9 +4,12 @@ description: Use this as a guide to navigate this digital garden
 tags:
   - Get_started
   - 🧭Navigation
+  - Housekeeping
 date: 2024-12-12
 share: true
 ---
+The side bar on the left is essentially a file explorer for published notes. There are currently 5 big categories, four of which align with my [current interest](index), the other one is a *gardenkeeping* sections. This section contains daily chores to keep the garden alive, this structure note, and other tips on tricks on how to take note effectively.
+
 Notes created fall into the following categories:
 
 1. ☁️ Clouds: These are ideas from other authors and can be anything from small notes, book excerpts, blog posts, etc. The clouds also contain my thoughts about those fragments.
