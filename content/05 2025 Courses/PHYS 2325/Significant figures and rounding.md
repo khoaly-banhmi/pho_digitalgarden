@@ -12,15 +12,14 @@ This portion is taken from CHEM Fall 2024
 Significant figures:
 
 - No zero → significant
-	- Zero
+- Zero
 	- Leading (before .) → non sig
 	- Between → sig
 	- Trailing (after non zero numbers) → is there a decimal?
-	- Yes decimal → sig
-	- No decimal → no sig
+		- Yes decimal → sig
+		- No decimal → no sig
 
-- @@ Exact number: 
-
+@@ Exact number: 
 - something you can count exactly → infinite numbers of sig figures
 - Conversion: example: 1 inch = 2.54cm exactly
 - Metric prefixes 2cm
