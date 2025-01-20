@@ -9,7 +9,7 @@ share: true
 ---
 To find the area between curves, follow these steps:
 1. Rough sketch: There can be other tasks needed to complete this step, review the following:
-	1. Absolute value:
+Absolute value:
 $$
 \begin{align*}
 |A| = 
@@ -21,9 +21,11 @@ $$
 \right.
 \end{align*}
 $$
-	2. Finding parabola's vertex: for $$
+2. Finding parabola's vertex: for 
+$$
 y = f(x) = ax^2+bx+c
 $$
+
 $$
 x = -\frac{b}{2a}
 $$
