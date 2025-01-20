@@ -33,13 +33,16 @@ This part will need to be added later.
 
 ### Components of vectors
 Vectors can be represented on a x-y plain, then those vectors will have two components (example with vector A):
-1. x-component, written as:$$
+1. x-component, written as:
+$$
 A_{x} = A\cos(\theta)
 $$
-2. y-component, written as:$$
+2. y-component, written as:
+$$
 A_{y}=A\sin(\theta)
 $$
-3. Theta: the angle the vectors make with the x+ axis $$
+3. Theta: the angle the vectors make with the x+ axis 
+$$
 \theta = \tan^{-1}\left( \frac{A_{y}}{A_{x}} \right)
 $$
 ![[Pasted image 20250115141452.png|Pasted image 20250115141452.png]]
@@ -60,7 +63,8 @@ There are two ways to calculate scalar product, using magnitudes and theta, or u
 
 ### Vector (Cross) product
 The result of this product is a vector. There are two components to be determined:
-1. Magnitude:$$
+1. Magnitude:
+$$
 |\vec{A}\times\vec{B}|=|\vec{A}||\vec{B}|\sin \phi
 $$
 2. Direction: Use the Right-hand method:
