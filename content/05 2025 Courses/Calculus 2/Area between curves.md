@@ -9,7 +9,8 @@ share: true
 ---
 To find the area between curves, follow these steps:
 1. Rough sketch: There can be other tasks needed to complete this step, review the following:
-	1. Absolute value:$$
+	1. Absolute value:
+$$
 \begin{align*}
 |A| = 
 \left\{
