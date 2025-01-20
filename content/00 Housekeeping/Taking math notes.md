@@ -14,6 +14,7 @@ To start using, type 'dm' to type. Use the space below as a playground to get fa
 $$
 y = \frac{a+b}{c+d}
 $$
+
 $$
 \int_a^b(2x^3+5x+12)dx = [\frac{1}{2}x^4
 +5]_{a}^b$$
