@@ -12,13 +12,15 @@ share: true
 
 **Howdy, internet wanders!**
 
-Somehow you have stumbled upon my digital garden, where I host and organize my ideas for future reference and growth, like a personal wiki. The notes are all in markdown so they can be migrated, stored easily and sustainably. 
+Somehow you have stumbled upon my digital garden. Here you can find personal notes, connected like a wiki. 
 
-I am currently a freshman in [aerospace engineering](https://engineering.tamu.edu/aerospace/index.html) at Texas A&M, College Station. Apart from studying full time, I am teaching myself web development and wandering the fields of sustainable aviation. I surround myself with the guiding principles of Respect, Excellence, Leadership, Loyalty, Selfless Service. My digital garden will be built around the following topics:
-1. Professional career: things I learn along the way to excel in aerospace engineering and sustainable development
+I am currently a freshman in [aerospace engineering](https://engineering.tamu.edu/aerospace/index.html) at Texas A&M, College Station. Apart from studying full time, I am teaching myself web development and wandering the fields of sustainable aviation.
+
+My digital garden will be built around the following topics:
+1. Sustainable Aerospace Engineering
 2. Learning to learn: how to effectively filter, organize, understand, and actively recall information. 
-3. Healthy mind and physical body
-4. Education: for resilience, emotional intelligence, and passing on the love of exploring.
+3. Mental and physical health
+4. Education: passing on the love of exploring and resilience.
 
 This digital garden may grow to be very lush. To help you navigate, I have created the following guide, but if you want to be adventurous, wander around!
 
