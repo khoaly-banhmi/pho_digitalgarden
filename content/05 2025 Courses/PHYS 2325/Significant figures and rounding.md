@@ -2,7 +2,8 @@
 title: Significant figures and rounding
 description: 
 tags:
-  - TAMU Spring 2025
+  - TAMU
+  - Spring
   - 🌱Seed
 date: 2025-1-16
 share: true
