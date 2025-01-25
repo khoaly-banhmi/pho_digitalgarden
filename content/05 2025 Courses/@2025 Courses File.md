@@ -2,7 +2,8 @@
 title: 2025 Courses File
 description: 
 tags:
-  - TAMU Spring 2025
+  - TAMU
+  - Spring
   - 🌱Seed
 date: 2025-1-16
 share: true
