@@ -51,6 +51,6 @@ $f(x)$ is the function above, $g(x)$ is the function below. $a$ and $b$ are the 
 $$
 V=\int^a_{b}2\pi x(f(x)-g(x))dx
 $$
-Note that $2\pi x$ is the shell circumference. It is $x$ because we are assuming that the bounded region is revolving around the x-axis. If revolving around a different axis, the circumference is $2\pi \text{(distance from the axis)}$. The $(f(x)-g(x))$ is the height of each cell. 
+Note that $2\pi x$ is the shell circumference. It is $x$ because we are assuming that the bounded region is revolving around the y-axis. If revolving around a different axis, the circumference is $2\pi \text{(distance from the axis)}$. The $(f(x)-g(x))$ is the height of each cell. 
 
 My note may make it unclear for some reader. I'm trying my best to simplify while retaining mathematical accuracy of my note; however, I recommend reading from other sources to demystify this topic. 
