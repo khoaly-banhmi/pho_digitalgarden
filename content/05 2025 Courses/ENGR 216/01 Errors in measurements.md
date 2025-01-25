@@ -2,7 +2,8 @@
 title: Errors in measurements
 description: When measuring, there are errors and differences between measurements. How can we know which number to choose?
 tags:
-  - TAMU Spring 2025
+  - TAMU
+  - Spring
   - 🌱Seed
 date: 2025-1-16
 share: true

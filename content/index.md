@@ -33,7 +33,7 @@ Get in touch via email: lynhatkhoa@tamu.edu
 This site is made using [Quartz](https://quartz.jzhao.xyz/) and formatted using [Obsidian MD](https://obsidian.md/). These are all open source software and maintained by the community. Create your own digital garden using the links above. Sprout icon by [Saepul Nahwan](https://www.flaticon.com/authors/saepul-nahwan) on Flaticon.
 
 Anything published here are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1). You can use them in your work, adapt, remix, anything, but you need to attribute the original work. 
-[]()
+
 > [!quote]
 > *"Je viens de partout, chez moi, les gens sèment, sèment*
 > 

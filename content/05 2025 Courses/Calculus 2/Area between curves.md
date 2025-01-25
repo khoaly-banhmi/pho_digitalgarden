@@ -2,7 +2,8 @@
 title: Area between curves
 description: 
 tags:
-  - TAMU Spring 2025
+  - TAMU
+  - Spring
   - 🌱Seed
 date: 2025-1-17
 share: true
