@@ -35,6 +35,8 @@ This site is made using [Quartz](https://quartz.jzhao.xyz/) and formatted using 
 
 Anything published here are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1). You can use them in your work, adapt, remix, anything, but you need to attribute the original work. 
 
+[sus link](https://youtu.be/OO14VSx74MU?si=wbpbPJvzOd-q8sAK)
+
 > [!quote]
 > *"Je viens de partout, chez moi, les gens sèment, sèment*
 > 
