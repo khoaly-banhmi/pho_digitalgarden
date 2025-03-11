@@ -8,7 +8,7 @@ tags:
 date: 2025-02-01
 share: true
 ---
-We treat motion in 2D and 3D the same as 1D motion. The 2D and 3D vectors can be reduced to one axis and the [same formula](02 1D Motion) then be applied. 
+We treat motion in 2D and 3D the same as 1D motion. The 2D and 3D vectors can be reduced to one axis and the [[02 1D Motion|same formula]] then be applied. 
 
 ## Straight Motion
 
